@@ -52,7 +52,7 @@ const Terminal = () => {
         '',
         'Ready to dive into the world of <span class="accent-text">AI building</span>? Here\'s how to get started:',
         '',
-        '<div class="terminal-step"><span class="terminal-subheader">📝 Step 1: Complete Your Application</span><br>Fill out our quick membership form to tell us about yourself:<br>→ <span class="terminal-link">https://forms.gle/ETBUyYZSvSFxQ13d8</span></div>',
+        '<div class="terminal-step"><span class="terminal-subheader">📝 Step 1: Complete Your Application</span><br>Fill out our quick membership form to tell us about yourself:<br>→ <a href="https://forms.gle/ETBUyYZSvSFxQ13d8" target="_blank" class="terminal-link">https://forms.gle/ETBUyYZSvSFxQ13d8</a></div>',
         '<div class="terminal-step"><span class="terminal-subheader">💬 Step 2: Join Our Community Hub</span><br>Connect with fellow builders on Discord:<br>→ <span class="terminal-link">https://discord.gg/jhu-claude</span></div>',
         '<div class="terminal-step"><span class="terminal-subheader">🏗️ Step 3: Attend Build Sessions</span><br>Jump into our weekly hands-on sessions:<br>• <span class="success-text">Tuesdays 7-9 PM</span> @ Malone Hall<br>• <span class="success-text">Thursdays 6-8 PM</span> @ Hackerman Hall</div>',
         '<div class="terminal-step"><span class="terminal-subheader">📱 Step 4: Stay Connected</span><br>Follow us for updates and inspiration:<br>• Instagram: <span class="accent-text">@jhuclaude</span><br>• LinkedIn: <span class="accent-text">JHU Claude Builder Club</span></div>',
