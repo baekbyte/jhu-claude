@@ -53,15 +53,15 @@ const Terminal = () => {
         'Ready to dive into the world of <span class="accent-text">AI building</span>? Here\'s how to get started:',
         '',
         '<div class="terminal-step"><span class="terminal-subheader">📝 Step 1: Complete Your Application</span><br>Fill out our quick membership form to tell us about yourself:<br>→ <a href="https://forms.gle/ETBUyYZSvSFxQ13d8" target="_blank" class="terminal-link">https://forms.gle/ETBUyYZSvSFxQ13d8</a></div>',
-        '<div class="terminal-step"><span class="terminal-subheader">💬 Step 2: Join Our Community Hub</span><br>Connect with fellow builders on Discord:<br>→ <span class="terminal-link">https://discord.gg/jhu-claude</span></div>',
-        '<div class="terminal-step"><span class="terminal-subheader">🏗️ Step 3: Attend Build Sessions</span><br>Jump into our weekly hands-on sessions:<br>• <span class="success-text">Tuesdays 7-9 PM</span> @ Malone Hall<br>• <span class="success-text">Thursdays 6-8 PM</span> @ Hackerman Hall</div>',
-        '<div class="terminal-step"><span class="terminal-subheader">📱 Step 4: Stay Connected</span><br>Follow us for updates and inspiration:<br>• Instagram: <span class="accent-text">@jhuclaude</span><br>• LinkedIn: <span class="accent-text">JHU Claude Builder Club</span></div>',
+        '<div class="terminal-step"><span class="terminal-subheader">💬 Step 2: Join Our Community Hub</span><br>Connect with fellow builders on GroupMe:<br>→ <a href="https://groupme.com/join_group/110064927/rSA2fFW6" target="_blank" class="terminal-link">https://groupme.com/join_group/110064927/rSA2fFW6</a></div>',
+        '<div class="terminal-step"><span class="terminal-subheader">🏗️ Step 3: Attend Weekly Meetings</span><br>Jump into our weekly hands-on sessions:<br>• <span class="success-text">Time: TBD</span> @ TBD</div>',
+        '<div class="terminal-step"><span class="terminal-subheader">📱 Step 4: Stay Connected</span><br>Follow us for updates and inspiration:<br>• Instagram: <a href="https://www.instagram.com/claudejhu/" target="_blank" class="terminal-link">@claudejhu</a><br>• LinkedIn: <a href="https://www.linkedin.com/company/claude-builder-club-jhu/" target="_blank" class="terminal-link">Claude Builder Club @ JHU</a></div>',
         '',
         '<div class="terminal-card"><span class="terminal-subheader">🎁 What You\'ll Get as a Member:</span><br><br>   ✓ <span class="terminal-badge">Free Claude Pro </span> access for your projects<br>   ✓ <span class="terminal-badge">$50</span> in Claude API credits<br>   ✓ <span class="highlight-text">Exclusive workshops</span> with industry experts<br>   ✓ Collaboration on <span class="success-text">real-world projects</span><br>   ✓ Direct networking with <span class="accent-text">AI professionals</span><br>   ✓ A supportive community of like-minded builders</div>',
         '',
         '<span class="muted-text">Questions? Just type "contact" to reach out to our team!</span>',
       ]
-    },
+    }, // https://www.instagram.com/claudebuilders_jhu // https://www.linkedin.com/company/claude-builder-club-jhu/
     events: {
       description: 'Upcoming events and workshops',
       action: () => [
@@ -123,9 +123,9 @@ const Terminal = () => {
         '',
         'Have questions, ideas, or just want to chat about <span class="accent-text">AI</span>? We\'d love to hear from you!',
         '',
-        '<div class="terminal-step"><span class="terminal-subheader">💌 Contact Methods</span><br>Reach out to us through any of these channels:<br>• <span class="highlight-text">📧 Email:</span> <span class="terminal-link">hello@jhu-claude.org</span><br>  Perfect for general inquiries or project ideas<br>• <span class="highlight-text">💬 Discord:</span> <span class="terminal-link">https://discord.gg/jhu-claude</span><br>  Join our active community for real-time chat<br>• <span class="highlight-text">📱 Instagram:</span> <span class="accent-text">@jhuclaude</span><br>  Follow for behind-the-scenes content and updates<br>• <span class="highlight-text">💼 LinkedIn:</span> <span class="accent-text">JHU Claude Builder Club</span><br>  Connect professionally and see our latest achievements</div>',
-        '',
-        '<div class="terminal-step"><span class="terminal-subheader">🏢 Visit Us in Person</span><br>Come hang out with us on campus:<br>• <span class="success-text">📍 Office Hours:</span> Malone Hall, Room 234<br>• <span class="success-text">🕐 When:</span> Monday-Friday, 12:00-2:00 PM<br>• <span class="success-text">☕ Bring your laptop</span> and grab some coffee with us!</div>',
+        '<div class="terminal-step"><span class="terminal-subheader">💌 Contact Methods</span><br>Reach out to us through any of these channels:<br>• <span class="highlight-text">💬 GroupMe:</span> <a href="https://groupme.com/join_group/110064927/rSA2fFW6" target="_blank" class="terminal-link">https://groupme.com/join_group/110064927/rSA2fFW6</a><br>  Join our active community for real-time chat<br>• <span class="highlight-text">📱 Instagram:</span> <a href="https://www.instagram.com/claudejhu/" target="_blank" class="terminal-link">@claudejhu</a><br>  Follow for behind-the-scenes content and updates<br>• <span class="highlight-text">💼 LinkedIn:</span> <a href="https://www.linkedin.com/company/claude-builder-club-jhu/" target="_blank" class="terminal-link">https://www.linkedin.com/company/claude-builder-club-jhu/</a><br>  Connect professionally and see our latest achievements</div>',
+        '', 
+        '<div class="terminal-step"><span class="terminal-subheader">🏢 Visit Us in Person</span><br>Come hang out with us on campus:<br>• <span class="success-text">📍 Weekly Meetings:</span> TBD<br>• <span class="success-text">🕐 When:</span> TBD<br>• <span class="success-text">☕ Bring your laptop</span> and grab some coffee with us!</div>',
         '',
         '<div class="terminal-card"><span class="terminal-subheader">👥 Meet Our Leadership Team</span><br><br>   🌟 <span class="terminal-badge">Nathan Baek</span> - Claude Builder Ambassador<br>      📧 <span class="terminal-link">sbaek19@jhu.edu</span><br>   🌟 <span class="terminal-badge">Sahana Sanjeev</span> - Claude Builder Ambassador<br>      📧 <span class="terminal-link">ssanjee3@jhu.edu</span><br>   🌟 <span class="terminal-badge">Amelia Frank</span> - Claude Campus Ambassador<br>      📧 <span class="terminal-link">afrank33@jhu.edu</span></div>',
         '',
