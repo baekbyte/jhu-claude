@@ -70,7 +70,7 @@ const Terminal = () => {
         '',
         'Stay ahead of the <span class="accent-text">AI curve</span> with our exciting lineup of events!',
         '',
-        '<div class="terminal-step"><span class="terminal-subheader">🔥 This Week\'s Highlights</span><br>Don\'t miss these amazing upcoming events:<br>• <span class="success-text">TBD</span> "Coming Soon"<br>  Come back later for more information!</div>',
+        '<div class="terminal-step"><span class="terminal-subheader">🔥 This Week\'s Highlights</span><br>Don\'t miss these amazing upcoming events:<br>• <span class="success-text">Claude Tabling:</span>  Tuesday, September 16, 10am EST (In front of Brody)<br>• <span class="success-text">Claude Mini Demo:</span> Wednesday, September 17, 7pm EST (Malone 107)<br></div>',
         // <br>• <span class="success-text">Date: </span> "Event Name"<br>  Event Description
         
         '',
