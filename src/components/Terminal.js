@@ -74,17 +74,15 @@ const Terminal = () => {
         // <br>• <span class="success-text">Date: </span> "Event Name"<br>  Event Description
         
         '',
-        '<div class="terminal-step"><span class="terminal-subheader">🗓️ Regular Weekly Sessions</span><br>Join us for our consistent building sessions:<br>• <span class="highlight-text">Weekly Meetings:</span> TBD<br>  Learn more about Claude at JHU</div>',
+        '<div class="terminal-step"><span class="terminal-subheader">🗓️ Regular Sessions</span><br>Join us for our consistent building sessions:<br>• <span class="highlight-text">First Meeting:</span> Monday, September 22, 5pm EST (Malone 228)<br>  Learn more about Claude at JHU</div>',
         '',
-        '<div class="terminal-step"><span class="terminal-subheader">🎯 Upcoming Workshop Series</span><br>Deep dive into specialized AI topics:<br>▶ <span class="accent-text">Societal Impacts of AI (Tuesday, September 23, 12pm PST)</span><br>▶ <span class="accent-text">Claude Code (Wednesday, September 24, 4pm PST</span><br>▶ <span class="accent-text">AI Research Salon (Tuesday, September 30, 1pm PST)</span><br>▶ <span class="accent-text">Building Agents (Wednesday, October 1, 4pm PST)</span></div>',
+        '<div class="terminal-step"><span class="terminal-subheader">🎯 Upcoming Workshop Series</span><br>Deep dive into specialized AI topics:<br>▶ <span class="accent-text">Societal Impacts of AI (Tuesday, September 23, 12pm PST)</span><br>▶ <span class="accent-text">Claude Code (Wednesday, September 24, 4pm PST)</span><br>▶ <span class="accent-text">AI Research Salon (Tuesday, September 30, 1pm PST)</span><br>▶ <span class="accent-text">Building Agents (Wednesday, October 1, 4pm PST)</span></div>',
         
         /* <br>▶ <span class="accent-text">Claude Code (Tuesday, October 7, 12pm PST)</span><br>▶ <span class="accent-text">Societal Impacts of AI (Tuesday, October 8, 4pm PST)</span><br>▶ <span class="accent-text">Building Agents (Wednesday, October 21, 12pm PST)</span><br>▶ <span class="accent-text">AI Research Salon (Wednesday, October 22, 4pm PST)</span><br>▶ <span class="accent-text">Building with MCP (Tuesday, October 28, 12pm PST)</span><br>▶ <span class="accent-text">Building with MCP (Wednesday, October 29, 4pm PST)</span><br>▶ <span class="accent-text">Entering the workfoce in a post AI world (Wednesday, November 5, 4pm PST)</span><br>▶ <span class="accent-text">Claude Code (Wednesday, November 12, 4pm PST</span>
         */
 
         '',
         '<div class="terminal-card"><span class="terminal-subheader">💰 Best Part: All events are completely FREE for members!</span><br><br>   ✓ <span class="terminal-badge">No cost</span> to attend any workshop<br>   ✓ <span class="terminal-badge">Free materials</span> and resources provided<br>   ✓ <span class="terminal-badge">Expert guidance</span> from industry professionals<br>   ✓ <span class="terminal-badge">Networking opportunities</span> with fellow builders</div>',
-        '',
-        '<div class="terminal-step"><span class="terminal-subheader">📝 How to Join Events</span><br>Ready to participate? Here\'s how:<br>→ <span class="terminal-link">RSVP in our Discord server</span><br>→ <span class="terminal-link">Email us at events@jhu-claude.org</span><br>→ Check our social media for last-minute updates</div>',
         '',
         '<span class="muted-text">Questions about events? Type "contact" to reach our team!</span>',
       ]
